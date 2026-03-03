@@ -9,3 +9,14 @@ my-demo-project/
 └── .github/
     └── workflows/
         └── deploy.yml
+
+
+
+output: 
+You push code →
+GitHub detects push →
+Workflow starts →
+Server created →
+Code downloaded →
+Website deployed →
+Live URL generated
